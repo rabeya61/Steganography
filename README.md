@@ -1,2 +1,1 @@
-# Steganography
-hiding information
+
